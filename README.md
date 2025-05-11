@@ -6,8 +6,8 @@ The site features a clean layout with a header, descriptive text, and two button
 
 🌐 How It Works
 
-The site displays a header and a image of a cup of coffee at the top.
-Two buttons 'Hot coffee' and 'Iced coffee' allow users to select between two categories which display as a table which contains Title, Description, Ingridients and Image.
+The site displays a header and an image of a cup of coffee at the top.
+Two buttons, 'Hot coffee' and 'Iced coffee,' allow users to select between two categories, which are displayed as a table containing the Title, Description, Ingredients, Image, Price, and Order.
 Clicking a button triggers an API request and updates the content on the page with the fetched data.
 
 🚀 **Getting Started**
