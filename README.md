@@ -4,13 +4,13 @@ This project is a simple and interactive web application that integrates with th
 
 The site features a clean layout with a header, descriptive text, and two buttons. Users can toggle between the buttons to fetch and display different data from the API dynamically, creating an engaging and responsive user experience.
 
-🌐 How It Works
+## 🌐 How It Works
 
 The site displays a header and an image of a cup of coffee at the top.
 Two buttons, 'Hot coffee' and 'Iced coffee,' allow users to select between two categories, which are displayed as a table containing the Title, Description, Ingredients, Image, Price, and Order.
 Clicking a button triggers an API request and updates the content on the page with the fetched data.
 
-🚀 **Getting Started**
+## 🚀 Getting Started
 
 ### Prerequisites
 Make sure you have the following installed:
@@ -19,15 +19,16 @@ Make sure you have the following installed:
 
 ### Installation
 - Open index.html in your browser because it’s a static HTML/JS site.
+- Another option is to go to https://olga-source.github.io/coffeelovers/
 
-🛠️ **Technologies Used**
+## 🛠️ Technologies Used
 
-HTML5
-CSS3
-JavaScript
-Public API
+- HTML5
+- CSS3
+- JavaScript
+- Public API
 
-📬 **Contact**
+## 📬 Contact
 
 Created by olga-source - feel free to reach out by email olgav.dev@gmail.com
 
