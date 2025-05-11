@@ -12,13 +12,13 @@ Clicking a button triggers an API request and updates the content on the page wi
 
 🚀 **Getting Started**
 
-Prerequisites
+### Prerequisites
 Make sure you have the following installed:
-A modern web browser (tested in Chrome, Edge, Firefox)
-Git (optional, for cloning the repository)
+- A modern web browser (tested in Chrome, Edge, Firefox)
+- Git (optional, for cloning the repository)
 
-Installation
-Open index.html in your browser because it’s a static HTML/JS site.
+### Installation
+- Open index.html in your browser because it’s a static HTML/JS site.
 
 🛠️ **Technologies Used**
 
